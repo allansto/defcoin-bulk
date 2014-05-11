@@ -26,6 +26,10 @@ For smaller wallets you can use PORTRAIT orientation. I have found that setting 
 
 See below for issues.
 
+May 11, 2014
+
+Found and fixed a (really sloppy) bug where the title was being printed, and pushing off the alignment of the first two pages. Sorry about that.
+
 May 6, 2014
 
 This is the first release of the DEFCOIN bulk paper wallet generator. It is based on the the most excellent CryptoLife Universal Paper Wallet Generator.
